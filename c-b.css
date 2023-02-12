@@ -1,0 +1,55 @@
+body {
+   background-color: #2f3035;
+   background-image: url(Images/Image-bandc.jpeg);
+}
+
+.container {
+   margin-left: auto;
+   margin-right: auto;
+   width: 1024px;
+}
+
+header {
+   height: 100px;
+   text-align: center;
+}
+
+nav{
+   background-color: black;
+   height: 80px;
+   
+}
+main {
+   height: 400px;
+   padding-top: 80px;
+   padding-left: 240px;
+   padding-right: 240px;
+   text-align: center;
+}
+
+footer {
+
+   height: 100px;
+   
+}
+
+h1 { 
+   font-size: 84px;
+   color: blanchedalmond;
+   /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+   text-align: center;
+}
+p {
+   font-size: 24px;
+   color: rgba(249, 218, 172, 0.774);
+   /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+   text-align: center;
+
+}  
+
+a  {
+   color: black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
